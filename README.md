@@ -4,6 +4,22 @@ NetID: ZXC180008
 
 Assignment 1 README File
 
+
+!!!!!!!!!
+This project read an online host data source, and generate an linear regression medel using Gradient Descent
+1. Find the data source
+2. Host in public location
+3. create two python files using google colab part1.py & part2.py
+4. part1 read csv url and calculate the model through two gradient descent function
+   Example various parameter are learning rate and n iteration when do the testing
+5. Apply the model you created in the previous step to the test part of the
+dataset. Report the test dataset error values for the best set of parameters
+obtained from previous part. 
+6. In part 2, we build linear regression model using ML Libraires.
+*7. Keep a log file of your trials indicating parameters used, training
+error, and test error. 
+
+
 Submission File includes:
 
 README.MD
