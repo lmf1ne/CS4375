@@ -14,6 +14,8 @@ Cover_Page.pdf
 
 Database choose from https://archive.ics.uci.edu/ml/datasets.php. --> Abalone
 
+Data is host in public location, in my own Github file
+
 Database file contains:
 
 abalone.data
